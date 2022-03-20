@@ -1,0 +1,169 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Generic Class */
+.bg-primary-gradient {
+    background-image: radial-gradient(#08a5f3, #006EFB);
+}
+
+.bg-primary {
+    background-color: #006EFB;
+}
+
+.text-white {
+    color: #FFFFFF;
+}
+
+.full-height {
+    height: 100%;
+}
+
+.text-end {
+    text-align: end;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.navbar-header {
+    height: 70px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.banner {
+    background-color: #006EFB;
+    background-image: url("../img/banner.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.title-banner {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.subtitle-banner {
+    font-size: 36px;
+    text-shadow: 0.1em 0.1em 1em #006EFB;
+}
+
+.btn-banner {
+    background-color: transparent;
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    height: 50px;
+    width: 150px;
+    font-weight: bold;
+}
+
+.btn-banner:hover {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+.card-group {
+    height: 140px;
+    background-color: #006EFB50;
+}
+
+.border-right {
+    border-right: 2px solid #FFFFFF;
+    height: 120px;
+}
+
+.border-left {
+    border-left: 2px solid #FFFFFF;
+    height: 120px;
+}
+
+.content-page {
+    height: 220px
+}
+
+.title-content-page {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.subtitle-content-page {
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 42px;
+}
+
+.text-content-page {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.icon-card {
+    width: 100px;
+}
+
+.card-page {
+    height: 300px;
+}
+
+.card {
+    border: 2px solid #3b3b3b;
+    border-radius: 5px;
+    height: 250px;
+}
+
+.title-card {
+    font-size: 18px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.text-card {
+    font-size: 16px;
+    color: #3b3b3b;
+    line-height: 24px;
+}
+
+.contact-page {
+    height: 300px;
+}
+
+.title-contact {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.text-contact {
+    font-size: 18px;
+}
+
+.btn-contact {
+    background-color: transparent;
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    height: 50px;
+    width: 150px;
+    font-weight: bold;
+}
+
+.btn-contact:hover {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+.footer-height {
+    height: 120px;
+}
+
+footer {
+    border-top: 2px solid #FFFFFF;
+}
